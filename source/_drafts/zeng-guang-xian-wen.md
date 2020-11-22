@@ -1,7 +1,8 @@
 ---
 layout: drafts
 title: 增广贤文
-tags: 增广贤文
+tags: 
+  - 读书笔记
 date: 2020-11-06 11:14:12
 ---
 
